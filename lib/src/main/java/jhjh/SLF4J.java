@@ -14,7 +14,7 @@ private static Logger LOGGER = LoggerFactory.getLogger(SLF4J.class);
 
 public static void main(String[] args) {
 LOGGER.info("Hello World");
-//System.out.println("Hello World");
- //test
+System.out.println("Hello World");
+
 }
 }
